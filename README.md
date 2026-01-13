@@ -2,6 +2,7 @@
 Learned MongoDB with 
 "[MongoDB Crash Course 2026](https://youtu.be/M1dKYQ7GsTg)" by CodeWithHarry .
 
+```
 Timestamps:
 00:00 — Introduction
 00:44 — Installation
@@ -26,3 +27,4 @@ Timestamps:
 55:14 — Aggregation Pipeline
 1:06:11 — Indexes
 1:08:48 — Conclusion
+```
