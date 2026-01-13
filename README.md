@@ -1,2 +1,28 @@
 # MongoDB-codes
-Learned MongoDB with "MongoDB Crash Course 2026" by CodeWithHarry .
+Learned MongoDB with 
+"[MongoDB Crash Course 2026](https://youtu.be/M1dKYQ7GsTg)" by CodeWithHarry .
+
+Timestamps:
+00:00 — Introduction
+00:44 — Installation
+02:10 — Mongod vs MongoDB vs MongoDB Compass
+05:32 — CRUD Operations
+09:30 — Creating Data in MongoDB
+17:22 — Using MongoDB Shell
+19:50 — Inserting Data in MongoDB
+22:12 — Insert vs InsertMany
+24:04 — Writing MongoDB Code in JS Files
+24:16 — Installing VS Code
+25:44 — Installing MongoDB Extension
+27:55 — MongoDB Handbook
+31:06 — CRUD: Reading Data
+33:15 — Comparison Operators
+35:27 — Projection in MongoDB
+38:35 — CRUD: Updating Documents
+41:50 — $push and $set
+43:08 — CRUD: Delete
+44:42 — Remote Database and MongoDB Atlas
+49:45 — MongoDB Atlas Setup
+55:14 — Aggregation Pipeline
+1:06:11 — Indexes
+1:08:48 — Conclusion
